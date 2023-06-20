@@ -2,7 +2,7 @@ var nosex = 0;
 var nosey = 0;
 var wristlx = 0;
 var wristrx = 0;
-
+var diferenca=0;
 function setup() {
     video = createCapture(VIDEO);
     video.size(550, 500);
